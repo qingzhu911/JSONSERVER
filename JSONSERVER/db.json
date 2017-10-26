@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "name": "zhangsan",
+      "phone": "123456",
+      "email": "3332@qq.com",
+      "age": 19,
+      "id": 1,
+      "companyId": 1
+    },
+    {
+      "name": "Henry2",
+      "phone": "123456",
+      "email": "3332@qq.com",
+      "age": 30,
+      "id": 2,
+      "companyId": 2
+    },
+    {
+      "name": "Henry4",
+      "phone": "123456",
+      "email": "3332@qq.com",
+      "age": 23,
+      "id": 4,
+      "companyId": 3
+    },
+    {
+      "name": "zhangsan",
+      "age": 18,
+      "id": 5
+    },
+    {
+      "name": "wanglao5",
+      "age": 50,
+      "id": 6
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "apple",
+      "description": "Apple is apple"
+    },
+    {
+      "id": 2,
+      "name": "Microsoft",
+      "description": "Microsoft is gicrosoft"
+    },
+    {
+      "id": 3,
+      "name": "Google",
+      "description": "Google is google"
+    }
+  ]
+}
